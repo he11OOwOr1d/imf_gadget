@@ -22,7 +22,7 @@ This is a Node.js Express API for managing spy gadgets, featuring authentication
 
 - Node.js (v14 or later)
 - npm
-- PostgreSQL (or another Prisma-supported database)
+- MySQL
 
 ## Installation
 
